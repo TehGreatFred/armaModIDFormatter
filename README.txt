@@ -9,3 +9,5 @@ pip install bs4
 pip install xlsxwriter
 ```
 ^ dependancies for the project.
+If the program crashes or you do not understand how to make it work, there is a link below of a 3 minute tutorial on how to get it to work:
+https://youtu.be/HiEVDeZBO0M
